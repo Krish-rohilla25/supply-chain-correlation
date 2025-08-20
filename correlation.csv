@@ -1,7 +1,8 @@
-Matrix, Supplier_Lead, Inventory_Level, Order_Frequency, Delivery_Performance, Cost_Per_Unit
+, Supplier_Lead, Inventory_Level, Order_Frequency, Delivery_Performance, Cost_Per_Unit
 Supplier_Lead, 1, 0.20080683, -0.9101136, -0.9356315, 0.96749218
 Inventory_Level, 0.20080683, 1, -0.2429223, -0.1756566, 0.20023318
 Order_Frequency, -0.9101136, -0.2429223, 1, 0.8620058, -0.362783
 Delivery_Performance, -0.9356315, -0.1756566, 0.8620058, 1, -0.9312306
 
 Cost_Per_Unit, 0.96749218, 0.20023318, -0.362783, -0.9312306, 1
+
